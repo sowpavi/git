@@ -1,0 +1,96 @@
+<html>
+<style>
+body{background:url("C:/Users/SOWMIKA/OneDrive/Pictures/Saved Pictures/BG.webp") fixed; 100% 100%;}
+h1,h2{text-transform:uppercase;font-style:italic;}
+#key{color:yellow;background-color:#3CAEA3;text-align:center;}
+.keys{color:white;background-color:violet;text-align:center;}
+.smile{color:purple; font-size:15pt; font-family:algerian;}
+th,td{font-family:forte; font-size:18pt;}
+.choco{font-style:italic;color:red;font-size:20pt;}
+#cadbury{position:relative;top:20px;}
+.happy{position:absolute;top:1660px;margin:250px;}
+</style>
+<head>
+<link rel="stylesheet" type="text/css" href="ul.css">
+</head>
+<h1 style="color:green; font-size:50pt; border-width:thick; border-style:double dotted; border-color:orange; padding:20px 15px; margin:20pt; font-style:italic"><center>Chocolates</h1>
+
+<body>
+<ul>
+<li><a href="form.html">orders</a></li>
+<li><a href="file:///C:/Users/SOWMIKA/OneDrive/Desktop/choco.pdf">choco</a>
+<ul>
+<li><a href="http://ootychocolatefactory.com">factory</a></li>
+</ul>
+</li>
+<li><a href="https://www.wikipedia.org">wikipedia</a></li>
+</ul><br>
+<h2 id="key">history of chocolates</h2>
+
+<p style="color:brown; font-size:20pt; font-family:algerian;id="top";>
+
+The cacao tree was cultivated more than 3,000 years ago by the Maya, Toltec, and Az0tec peoples, who prepared a beverage from its fruit, the cocoa bean (sometimes using it as a ceremonial drink) and also used the bean as a currency. The Maya considered chocolate to be the<mark> food of the gods</mark>, held the cacao tree to be sacred, and even buried dignitaries with bowls of the substance (along with other items deemed useful in the afterlife). In fact, the identification of the (Olmec-originated) word ka-ka-w (“cacao”) inscribed on those containers was key to deciphering the Maya’s phonetic manner of writing.</p>
+<p style="font-style:italic; font-size:25; font-weight:bold;">Milk chocolate is sweet, but not as sweet as white chocolate. Milk chocolate has lots of cocoa.</p>
+
+<pre style=font-size:25;font-family:forte;color:blue;>Dark chocolate is the least sweet and has the strongest chocolate flavor.</pre>
+
+<h2 id="key">Ruby chocolate</h2><h3>It is a type of chocolate created by Barry Callebaut. The variety was in development from 2004, and was released to the public in 2017. The chocolate type is made from the Ruby cocoa bean, resulting in a distinct red colour and a different flavour, described as "sweet yet sour".Raw chocolate is chocolate that has not been processed, heated, or mixed with other ingredients. It is sold in chocolate-growing countries, and to a much lesser extent in other countries, often promoted as healthy.</h3>
+
+<h2 class="keys">Compound chocolate</h2><h3>It is the name for a confection combining cocoa with other vegetable fat, usually tropical fats or hydrogenated fats, as a replacement for cocoa butter. It is often used for candy bar coatings. In many countries it may not legally be called "chocolate".</h3>
+
+<h2 id="key">Modeling chocolate</h2><h3>It is a chocolate paste made by melting chocolate and combining it with corn syrup, glucose syrup, or golden syrup. It is primarily used by cakemakers and pâtisseries to add decoration to cakes and pastriesCocoa powder is the pulverized cocoa solids left after extracting almost all the cocoa butter. It is used to add chocolate flavour in baking, and for making chocolate drinks.</h3>
+ 
+<h2 class="keys">There are two types of unsweetened cocoa powder</h2><h3> Natural cocoa produced by the Broma process, with no additives, and Dutch process cocoa, which is additionally processed with alkali to neutralize its natural acidity. Natural cocoa is light in colour and somewhat acidic, and is commonly used in recipes that also use baking soda; as baking soda is an alkali, combining it with natural cocoa creates a leavening action that allows the batter to rise during baking. Dutch cocoa is slightly milder in taste, with a darker colour. It is frequently used for chocolate drinks such as hot chocolate due to its ease in blending with liquids. However, Dutch processing destroys most of the flavonoids present in cocoa.</h3>
+
+<h2 id="key">Increases heart health</h2><h3>The antioxidants in dark chocolate have been shown to lower blood pressure, reduce the risk of clotting and increase blood circulation to the heart, thus lowering the risks of stroke, coronary heart disease and death from heart disease.</h3>
+
+
+<ol class="smile">
+<li>diarymilk</li>
+<li>milkybar</li>
+<li>snickers</li>
+</ol>
+<center>
+<table border="5" cellpadding="30" cellspacing="30" bgcolor="F4C095">
+<tr bgcolor="yellow">
+<th>category</th>
+<td>state 1</td>
+<td>state 2</td>
+<td>state 3</td>
+</tr>
+<tr bgcolor="lightgreen">
+<th>flavours</th>
+<td>chocolate</td>
+<td>milk</td>
+<td>caramel</td>
+</tr>
+<tr bgcolor="lightblue">
+<th>texture</th>
+<td colspan="2">creamy</td>
+<td>silky</td>
+</tr>
+<thead>
+<tr bgcolor="lavender">
+<td colspan="4" style="font-family:algerian; font-style:italic; font-weight:bold;"><center>menu</td></center>
+</tr>
+</table border><br></center>
+<div id="cadbury">
+<img src="choco chips.jfif"width="200"height="200"></div><br>
+<div class="happy">
+<img src="C:\Users\SOWMIKA\OneDrive\Pictures\Saved Pictures\Hersheys-chocolates.jpeg" width="200"height="200"></div><br>
+<a href="#top"; style="font-size:20; color:brown; font-family:algerian"><center>definitions</a></center><br>
+<center><a href="https://www.mordorintelligence.com/industry-reports/india-chocolate-market"><img src="desktop - Copy.jpg"></a href><br><br>
+<video width="240" height="140" controls>
+<source src="C:\Users\SOWMIKA\OneDrive\Pictures\Saved Pictures\kongu engineering college logo - Google Search_files\choco.mp4">
+</video><br><br>
+<audio controls>
+<source src="C:\Users\SOWMIKA\OneDrive\Pictures\Saved Pictures\kongu engineering college logo - Google Search_files\choco.mp4">
+</audio><br><br>
+<div class="choco"><center>
+Too much of anything is good for nothing
+</div></center><br>
+<marquee style=background-color:magenta;font-style:italic;>
+Thank you
+</marquee>
+</body>
+</html>
