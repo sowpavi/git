@@ -1,0 +1,48 @@
+<html>
+<body bgcolor="lightgreen">
+<center><h1 style=background-color:lavender;color:red;font-style:italic;>REGISTRATION FORM</h1></center>
+<fieldset>
+<legend>CHOCOLATE LIST</legend><br>
+<form action ="second css.html">
+<label>chocolate</label>
+<input type="text" max length="5" placeholder="favorite chocoloate"> <br><br>
+<label>flavour</label>
+<input type="text" size="10" placeholder="favorite flavour"><br><br>
+<label>coupon</label>
+<input type="password" maxlength="10" required <br><br><br>
+variety:
+<input type="radio" name="variety">dark chocolate
+<input type="radio" name="variety">white chocolate<br><br>
+arriving time:
+<input type="time" name="arriving time"><br><br>
+<label>cost</label>
+<select>
+<option>10</option>
+<option>25</option>
+<option>50</option>
+<option>100</option>
+</select>
+quantity:
+<input type="number" min="3" max="10" step="2"><br><br>
+size:
+<input type="checkbox" name="size">15g
+<input type="checkbox" name="size">30g
+<input type="checkbox" name="size">60g<br><br>
+<label>further queries</label>
+<input type:"email" value="choco@gmail.com" readonly><br><br>
+<label>quality</label>
+<input type="range"><br><br>
+<label>offer</label>
+<input type="text" value="buy one get one free" disabled><br><br>
+<label>gifts</label>
+<input type:"text" value="chocolate hamper" readonly><br><br>
+package  date:
+<input type="date"><br><br>
+address:
+<textarea name="address" rows="6" cols="50">
+</textarea> <br><br>
+hit me:
+<input type="submit" name="hit me">
+</fieldset>
+</body>
+</html>
