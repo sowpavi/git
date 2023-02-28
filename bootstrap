@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>Bootstrap Example</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body><nav class="navbar navbar-inverse">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>                        
+</button>
+<a class="navbar-brand" href="#">WebSiteName</a>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+<li class="active"><a href="#">Home</a></li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" hre="#">page1
+<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="#">Page 1-1</a></li>
+<li><a href="#">Page 1-2</a></li>
+<li><a href="#">Page 1-3</a></li>
+</ul>
+</li>
+<li><a href="#">Page 2</a></li>
+<li><a href="#">Page 3</a></li>
+</ul> 
+</div>
+</div>
+</nav>
+<div class="container-fluid">
+<h1 class="bg-warning text-primary text-uppercase text-center" style="font-family:algerian;">enthusia</h1>
+</div>
+<button type="button" class="btn btn-success btn-lg">day to cherish <span class="badge">21.02.2023</span></button>
+<br><br>
+<center><button type="button" class="btn btn-md btn-danger text-warning disabled">schedules</button></center>
+<div class="table-responsive">
+<table class="table table-striped">
+<tr>
+<th>singing</th>
+<th>dancing</th>
+<th>skit</th>
+<th>mime</th>
+<th>fashion parade</th>
+<th>meme creation</th>
+<th>craft</th>
+<th>instrumental</th>
+<th>short films</th>
+</tr>
+<tr>
+<td>9.30 a.m</td>
+<td>10.30 a.m</td>
+<td>11.30 a.m</td>
+<td>12.30 p.m</td>
+<td>2.30 p.m</td>
+<td>3.30 p.m</td>
+<td>4.30 p.m</td>
+<td>5.30 p.m</td>
+<td>6.30 p.m</td>
+</tr>
+</table>
+</div>
+<br>
+
+<div class="container">
+<table class="table table-bordered table-hover">
+<tr class="info">
+<th>events</th>
+<th>selected teams</th>
+</tr>
+<tr class="primary">
+<td>singing</td>
+<td>2019</td>
+</tr>
+<tr class="success">
+<td>dancing</td>
+<td>4678</td>
+</tr>
+<tr class="danger">
+<td>mime</td>
+<td>6798</td>
+</tr>
+<tr class="warning">
+<td>skit</td>
+<td>1324</td>
+</tr>
+</table>
+</div>
+<img src="C:\Users\SOWMIKA\OneDrive\Pictures\Saved Pictures\u16.png" class="img-circle" width="200" height="200"><br>
+<br>
+<div class="progress">
+<div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width:70%">
+seats filled
+</div>
+<div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" style=width:30%>
+remainig seats
+</div>
+</div>
+<div class="alert alert-warning">
+<strong>soon!</strong>registration going to close <a href="formbootstrap.html" class="alert-link">click to register!</a>
+</div>
+<ul class="list-group" >
+<li class="list-group-item active" >free refreshment</li>
+<li class="list-group-item">tea,biscuits,juices,ice creams</li>
+</ul>
+<ul class="breadcrumb">
+<li>dances</li>
+<li>classical</li>
+<li>western</li>
+</ul>
+<div class="container-fluid">
+  <div class="row">
+    <div class=" col-3 col-lg-3" style="background-color:lightblue;">events</div>
+    <div class=" col-3 col-lg-3" style="background-color:lightblue;">technical</div>
+    <div class="col-3 col-lg-3" style="background-color:lightblue;">non-technical</div>
+    <div class=" col-3 col-lg-3" style="background-color:lightblue;">speech</div>
+  </div>
+<div class="row">
+<div class=" col-3 col-lg-3" style="background-color:F4C095;">event coordinator</div>
+<div class=" col-3 col-lg-3" style="background-color:silver;">suresh</div>
+<div class=" col-3 col-lg-3" style="background-color:#FFDACC;">keerthi</div>
+<div class=" col-3 col-lg-3" style="background-color:#E2F0CB;">rahul</div>
+</div>
+<div class="row">
+<div class=" col-3 col-lg-3" style="background-color:F4C095;">phone number</div>
+<div class=" col-3 col-lg-3" style="background-color:silver;">8430115867</div>
+<div class=" col-3 col-lg-3" style="background-color:#FFDACC;">945609876</div>
+<div class=" col-3 col-lg-3" style="background-color:#E2F0CB;">9569034542</div>
+</div>
+</div>
+</body>
+</html>
